@@ -174,7 +174,7 @@ Employee-Attrition-Analysis/
 How to Run
 
 1.	Clone the repository 
-git clone https://github.com/your-username/Employee-Attrition-Analysis.git
+git clone https://github.com/sruthymol343/HR-Employee-Attrition-Data-Analysis-.git
 2.	Install dependencies 
 pip install pandas numpy matplotlib seaborn
 3.	Open Jupyter Notebook 
